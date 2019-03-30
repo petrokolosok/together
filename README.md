@@ -1,3 +1,3 @@
 # Together / Coop
 
-## Documentation
+### Documentation
